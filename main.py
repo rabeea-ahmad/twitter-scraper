@@ -55,4 +55,4 @@ if __name__ == '__main__':
 
 	# Clean the tweets
 	scrape.preprocess()
-#https://chunml.github.io/ChunML.github.io/project/Creating-Text-Generator-Using-Recurrent-Neural-Network/
+
